@@ -1,0 +1,7 @@
+flask
+openai>=1.0.0
+chromadb
+python-dotenv
+pandas
+openpyxl
+tqdm

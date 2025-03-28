@@ -1,0 +1,11 @@
+env/
+__pycache__/
+*.pyc
+*.log
+baileys_auth/
+*.db
+chromadb_storage/
+node_modules/
+*.json
+*.sqlite3
+*.xlsx

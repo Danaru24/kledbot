@@ -1,0 +1,19 @@
+{
+  "name": "kledbot",
+  "version": "1.0.0",
+  "description": "Este proyecto es una implementación completa de un chatbot inteligente para atención a clientes en WhatsApp utilizando OpenAI, ChromaDB, LangChain y Baileys.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "express": "^4.21.2",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

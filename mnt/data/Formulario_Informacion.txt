@@ -1,0 +1,127 @@
+Formulario de Información para el Bot de Atención al Cliente
+1. Información General de la Tienda
+P: ¿Cuál es el nombre oficial de la tienda?
+R: Kled
+
+P: ¿Cómo describirías brevemente la tienda y los productos que ofrece?
+R: Kled es una tienda online que vende productos para la construcción y equipo de seguridad. Como guantes de nitrilo, polipropileno, de carnaza, lentes protectores, arneses, cintas de aislar, etc. (https://www.kled.com.mx/)
+
+P: ¿Cuál es la propuesta de valor de la tienda?
+R: Productos de alta Calidad, servicio personalizado.
+
+P: ¿Cuáles son los horarios de atención al cliente si un usuario necesita contactar a un humano?
+R: 9:00 am – 4:00 pm Horario de la Ciudad de México.
+
+P: ¿En qué idiomas ofrecerán soporte?
+R: Únicamente español.
+
+P: ¿Qué canales de contacto tendrán disponibles además del bot? 
+R: WhatsApp (5573289301), correo electrónico (ventas@kled.com.mx), teléfono (5561638256), Facebook (https://www.facebook.com/profile.php?id=61574612194220)
+
+2. Proceso de Compra
+P: ¿Cuáles son los pasos para comprar en la tienda?
+R: El proceso de compra en una tienda online comienza al seleccionar el producto deseado, verificando que la cantidad, modelo, color y tamaño sean los correctos. Una vez confirmado, se agrega al carrito y se procede a realizar la compra. En esta etapa, el cliente debe ingresar sus datos personales y de domicilio, así como la información bancaria para efectuar el pago. Tras completar la transacción, se recibe un correo electrónico de confirmación. Posteriormente, solo queda esperar el tiempo estimado de entrega para recibir los productos en casa. Finalmente, el cliente puede participar en una encuesta de satisfacción para compartir su experiencia de compra.
+
+P: ¿Qué métodos de pago se aceptan?
+R: Tarjetas de crédito y débito, pago en efectivo (Oxxo) y Mercado pago.
+
+P: ¿Se requiere crear una cuenta para comprar o se puede hacer compra como invitado?
+R: Si, es necesario crear una cuenta.
+
+P: ¿Cómo se confirma que la compra fue exitosa?
+R: Por medio de un correo electrónico.
+
+P: ¿Se pueden hacer modificaciones o cancelaciones a un pedido después de haber sido realizado?
+R: Modificaciones no, pero su cancelación puede solicitarla al enviar un correo ventas@kled.com.mx explicando su situación.
+
+3. Información sobre los Productos
+P: ¿Cómo se actualiza la disponibilidad de los productos en la tienda?
+R: De manera manual y se realiza de manera periódica.
+
+P: ¿Los productos tienen garantía?
+R: Únicamente los equipos de seguridad.
+
+P: ¿Hay variaciones de los productos?
+R: No
+
+P: ¿Los productos tienen instrucciones de uso o cuidado?
+R: Si, se incluye dentro del producto.
+
+4. Envíos
+P: ¿Qué opciones de envío están disponibles?
+R: REDPACK, FEDEX, Paquetexpress y DHL.
+
+P: ¿Cuáles son los tiempos estimados de entrega por tipo de envío y ubicación?
+R: Cada una de nuestras opciones de envió tienen diferentes tiempos de envió y al momento de seleccionarlo se presenta su tiempo estimado que puede ser desde un día hasta dos semanas.
+
+P: ¿Cuál es el costo del envío y existen promociones como envío gratuito a partir de cierto monto?
+R: Con nuestra variedad de opciones de envió el costo puede variar dependiendo la compañía, dejamos la elección de compañía al cliente.
+
+P: ¿Se puede hacer rastreo del pedido?
+R: Sí, al momento de ser enviado el paquete le proporcionaremos la guía para que pueda ser rastreado el pedido.
+
+P: ¿Desde qué ubicación se envían los pedidos?
+R: Desde Coyoacán, Ciudad de México.
+
+P: ¿Los envíos se hacen solo a ciertas ciudades/países o es un servicio global?
+R: Solamente dentro de la República Mexicana.
+
+P: ¿Qué sucede si el pedido llega dañado o incompleto?
+R: Se le recomienda al cliente al momento de recibir el paquete generar evidencia del estado del paquete antes y después de abrirlo para llevar el debido proceso de devolución.
+
+5. Cambios y Devoluciones
+P: ¿Cuánto tiempo tiene el cliente para solicitar un cambio o devolución?
+R: Dos semanas.
+
+P: ¿Cuáles son las condiciones para que una devolución o cambio sea válido?
+R: La única condición para solicitar un cambio o devolución es si el producto se encuentra en malas condiciones.
+
+P: ¿Cómo se inicia el proceso de cambio o devolución?
+R: Desde nuestra tienda en línea (https://www.kled.com.mx/) y a su vez se recomienda que envié un mensaje al correo electrónico (ventas@kled.com.mx) explicando su situación.
+
+P: ¿Quién cubre el costo del envío en caso de cambios o devoluciones?
+R: Si el cliente compra el seguro de envió ya se encuentran cubiertos si no es el caso el costo será por parte del cliente aunque si lo considera necesario puede enviar un mensaje al correo ventas@kled.com.mx explicando su situación.
+
+P: ¿Cuánto tiempo tarda en procesarse un reembolso o cambio una vez solicitado?
+R: Sin contar el tiempo del traslado del paquete de 3 a 5 días hábiles.
+
+P: ¿En qué casos no se aceptan devoluciones?
+R: Una mala elección de productos o especificación del mismo por parte del cliente.  
+
+P: ¿Se hace devolución en dinero o en crédito para futuras compras?
+R: Se realizara la devolución por el medio de compra que se realizo únicamente.
+
+6. Soporte y Atención al Cliente
+P: En qué horario hay atención humana disponible si el bot no resuelve la consulta?
+R: 10:00 am - 5:30 pm Horario de la Ciudad de México. 
+
+P: ¿Cuál es el tiempo de respuesta estimado si un cliente es redirigido a un agente?
+R: De 1 a 5 minutos.
+
+P: ¿Cómo se contacta a un humano?
+R: Cuando solicite conversar con un agente en el chatbot, al mandar un correo a ventas@kled.com.mx o directamente al numero 5561638256.
+
+P: ¿Cómo manejarán los casos urgentes o problemas graves con pedidos?
+R: Se le recomienda al cliente contactarse al numero 5561638256 o enviar un correo a ventas@kled.com.mx explicando su situación.
+
+7. Preguntas Frecuentes y Escenarios Específicos
+P: ¿Qué pasa si el cliente no recibe el correo de confirmación de compra?
+R: Se verificará si la compra fue realizada, posteriormente se dará la solución vía correo electrónico.
+
+P: ¿Qué hacer si el cliente ingresó mal su dirección de envío?
+R: Se solicitará a la paquetería la devolución del mismo para reenviarlo en la dirección correcta, se aplicará un cargo extra.
+
+P: ¿Se pueden hacer pedidos especiales o personalizados?
+R: Si, solicitarlo al correo ventas@kled.com.mx explicando las especificaciones de su pedido.
+
+P: ¿Qué pasa si un producto se agota después de que el cliente ya pagó?
+R: Se le notificará vía correo, así como el procedimiento para su devolución.
+
+P: ¿El bot debe informar sobre promociones o descuentos?
+R: Si, en caso que lo solicite el cliente.
+
+P: ¿Hay un programa de lealtad, cupones de descuento o beneficios para clientes frecuentes?
+R: Por el momento no contamos con ello.
+
+P: ¿Cómo manejarán las quejas o sugerencias de los clientes?
+R: Al momento de recibir su queja o sugerencia al correo ventas@kled.com.mx se analizará la situación presentada y se le dará solución.
