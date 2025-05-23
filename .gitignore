@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 env/
+.env
 
 # Node.js
 node_modules/
