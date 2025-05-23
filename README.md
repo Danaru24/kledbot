@@ -1,31 +1,8 @@
-# 🛠️ KledBot - Instalación y Configuración
+# 🤖 KledBot
 
-Este proyecto es una implementación completa de un chatbot inteligente para atención a clientes en WhatsApp utilizando OpenAI, ChromaDB, LangChain y Baileys.
+**KledBot** es un asistente conversacional para atención a clientes vía WhatsApp, desarrollado para la tienda en línea **Kled**. Este chatbot combina la inteligencia de **OpenAI**, recuperación de contexto mediante **ChromaDB** (arquitectura RAG), y conectividad vía **Baileys**, todo dentro de una arquitectura ligera, modular y escalable.
 
----
-
-## 📁 Estructura del Proyecto
-
-```
-kledbot/
-├── bot.py                  # Servidor principal Flask
-├── formulario.py           # Carga del formulario a ChromaDB
-├── catalogo.py             # Carga del catálogo a ChromaDB
-├── requirements.txt        # Dependencias del entorno
-├── config.py               # Configuración general (tokens, paths)
-├── kledbot/
-│   ├── __init__.py
-│   ├── chatbot.py          # Función principal para obtener respuesta de ChatGPT
-│   ├── whatsapp.py         # Envío y recepción de mensajes usando Baileys
-│   ├── catalogo.py         # Código para indexar productos
-│   ├── formulario.py       # Código para indexar FAQs y respuestas del negocio
-│   └── db/
-│       └── chromadb/
-│           ├── chroma_setup.py       # Configuración del cliente Chroma
-│           └── chroma_queries.py     # Colecciones compartidas para búsqueda
-├── baileys_auth/           # Directorio donde se guarda la sesión de Baileys
-└── n8n/                    # Flujos automatizados
-```
+Su objetivo es automatizar respuestas, sugerir productos desde el catálogo y resolver preguntas frecuentes, mejorando la experiencia del usuario y reduciendo la carga operativa.
 
 ---
 
@@ -34,14 +11,13 @@ kledbot/
 - Ubuntu Server 22.04+
 - Python 3.12+
 - Node.js 18+
-- pm2
-- nginx
+- `pm2` y `nginx` instalados
 
 ---
 
 ## ⚙️ Instalación de Dependencias
 
-1. Crear entorno virtual:
+1. Crear y activar entorno virtual:
 ```bash
 python3 -m venv env
 source env/bin/activate
@@ -52,29 +28,60 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
+3. Instalar dependencias de Node:
+```bash
+npm install
+```
+
 ---
 
-## 💾 Base de Datos ChromaDB (Modo Integrado)
+## 📁 Estructura del Proyecto
 
-No es necesario ejecutar un servidor por separado. ChromaDB se usa en modo **in-process**, por lo que el código Python se encarga de gestionar la carga y persistencia automáticamente:
+```
+kledbot/
+├── bot.py                  # Servidor principal Flask
+├── catalogo.py             # Carga del catálogo a ChromaDB
+├── formulario.py           # Carga del formulario FAQ a ChromaDB
+├── config.py               # Configuración general
+├── kledbot/                # Código fuente principal
+│   ├── chatbot.py
+│   ├── whatsapp.py
+│   ├── langchain_chain.py
+│   ├── utils.py
+│   ├── n8n.py
+│   └── db/
+│       └── chromadb/
+│           ├── chroma_setup.py
+│           └── chroma_queries.py
+├── baileys_auth/           # Estado de sesión de Baileys (WhatsApp)
+├── scripts/                # Scripts auxiliares (iniciar/verificar chromadb)
+├── tests/                  # Pruebas unitarias
+├── logs/                   # Logs del sistema
+├── docs/                   # Documentación técnica
+└── server.js               # Servidor Node para recibir/enviar mensajes
+```
 
-📁 Carpeta de persistencia: `./kledbot/db/chromadb_storage`
+---
+
+## 💾 ChromaDB en modo In-Process
+
+KledBot utiliza ChromaDB de forma **interna**, sin necesidad de un servidor separado. El cliente se inicializa así:
 
 ```python
 chroma_client = chromadb.PersistentClient(path="./kledbot/db/chromadb_storage")
 ```
 
-✅ El almacenamiento se realiza automáticamente cada vez que se insertan datos desde:
-- `catalogo.py` → productos
-- `formulario.py` → preguntas y respuestas frecuentes
+Los datos se persisten automáticamente.
 
 ---
 
-## 📄 Cargar Catálogo y Formulario
+## 📄 Cargar Catálogo y FAQ
 
-1. Coloca `catalogoKled.xlsx` y `Formulario_Informacion.txt` en la raíz del proyecto.
+1. Coloca los siguientes archivos en la raíz del proyecto:
+   - `catalogoKled.xlsx`
+   - `Formulario_Informacion.txt`
 
-2. Ejecuta los scripts para cargar los datos:
+2. Ejecuta los scripts:
 ```bash
 python catalogo.py
 python formulario.py
@@ -82,7 +89,7 @@ python formulario.py
 
 ---
 
-## 🚀 Ejecutar el Bot con PM2 (persistente)
+## 🚀 Ejecutar el Bot con PM2
 
 ```bash
 pm2 start bot.py --interpreter=python3 --name KledBot
@@ -92,40 +99,36 @@ pm2 startup
 
 ---
 
-## 🎨 Personalización del Bash
-
-Instala **Oh My Bash** con tema `agnoster`:
-```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
-sed -i 's/OSH_THEME=.*/OSH_THEME=agnoster/' ~/.bashrc
-source ~/.bashrc
-```
-
----
-
 ## 📬 Integración con WhatsApp
 
-- Se usa **Baileys** como alternativa a la API oficial de Meta.
-- El servidor Node.js (`server.js`) maneja el envío y recepción de mensajes desde WhatsApp.
-- Los mensajes son enviados al webhook de Flask (bot.py), el cual procesa y responde usando ChatGPT + ChromaDB.
+- Utiliza **Baileys** como alternativa a la API oficial de Meta.
+- El servidor Node.js (`server.js`) recibe mensajes y los reenvía por HTTP a `Flask`.
+- Flask procesa el mensaje, consulta ChromaDB y responde con OpenAI.
+
+**Flujo de mensajes:**
+```
+WhatsApp → server.js → Flask (bot.py) → ChromaDB + ChatGPT → server.js → WhatsApp
+```
+
 
 ---
 
-## 🌐 Comunicación entre Módulos
+## 🧠 Arquitectura General
 
-- `server.js` escucha mensajes nuevos desde WhatsApp y los reenvía por POST a `http://localhost:5000/webhook`
-- `bot.py` recibe ese mensaje, consulta las bases ChromaDB y genera una respuesta usando OpenAI.
-- `server.js` recibe la respuesta y la envía nuevamente al usuario en WhatsApp.
+> ![arquitectira](docs/arquitectura_kledbot.png)
 
 ---
 
 ## 📌 Notas Finales
 
-- No se requiere ejecutar `chromadb.run`, ya que el acceso es **in-process**.
-- Toda la información cargada permanece disponible mientras no se borre el directorio `chromadb_storage/`.
-- Verifica siempre que las colecciones existan (`catalogo`, `faq`) antes de ejecutar el bot.
+- Toda la base de conocimiento permanece mientras no se elimine `chromadb_storage/`.
+- No es necesario ejecutar ChromaDB como servidor externo.
+- Las colecciones `catalogo` y `faq` deben existir antes de iniciar el bot.
 
 ---
 
-✅ Listo para continuar con la siguiente fase.
+## 📄 Licencia
 
+Este proyecto está disponible bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+---

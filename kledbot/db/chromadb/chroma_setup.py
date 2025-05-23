@@ -1,18 +1,16 @@
-from chromadb import Client
-from chromadb.config import Settings
+from chromadb import HttpClient
+from langchain_community.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
 
-# Cliente apuntando al directorio de persistencia
-chroma_client = Client(Settings(
-    persist_directory="./kledbot/db/chromadb_storage"
-))
+# Cliente de ChromaDB local
+chroma_client = HttpClient(host="localhost", port=8000)
 
-# Comprobación y carga de colecciones
-if "catalogo" in chroma_client.list_collections():
-    collection_catalogo = chroma_client.get_collection(name="catalogo")
-else:
-    collection_catalogo = chroma_client.create_collection(name="catalogo")
+# Embeddings compatibles con colección "faq" (dimensión 384)
+embedding_function = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 
-if "formulario_faq" in chroma_client.list_collections():
-    collection_faq = chroma_client.get_collection(name="formulario_faq")
-else:
-    collection_faq = chroma_client.create_collection(name="formulario_faq")
+# Vectorstore conectado a la colección correcta
+chroma_vectorstore = Chroma(
+    client=chroma_client,
+    collection_name="faq",
+    embedding_function=embedding_function
+)

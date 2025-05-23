@@ -1,127 +1,738 @@
 Formulario de Información para el Bot de Atención al Cliente
 1. Información General de la Tienda
+
 P: ¿Cuál es el nombre oficial de la tienda?
-R: Kled
+R: Kled https://www.kled.com.mx/
+
+P: ¿Cómo se llama oficialmente la tienda?
+R: Kled https://www.kled.com.mx/
+
+P: ¿Cuál es el nombre registrado de la tienda?
+R: Kled https://www.kled.com.mx/
 
 P: ¿Cómo describirías brevemente la tienda y los productos que ofrece?
-R: Kled es una tienda online que vende productos para la construcción y equipo de seguridad. Como guantes de nitrilo, polipropileno, de carnaza, lentes protectores, arneses, cintas de aislar, etc. (https://www.kled.com.mx/)
+R: Kled es una tienda online que vende productos para la construcción y equipo de seguridad. Como guantes de nitrilo, polipropileno, de carnaza, lentes protectores, arneses, cintas de aislar, etc. https://www.kled.com.mx/
+
+P: ¿Qué tipo de productos ofrece Kled?
+R: Kled es una tienda online que vende productos para la construcción y equipo de seguridad. Como guantes de nitrilo, polipropileno, de carnaza, lentes protectores, arneses, cintas de aislar, etc. https://www.kled.com.mx/
+
+P: ¿Cómo podrías describir Kled y lo que vende?
+R: Kled es una tienda online que vende productos para la construcción y equipo de seguridad. Como guantes de nitrilo, polipropileno, de carnaza, lentes protectores, arneses, cintas de aislar, etc. https://www.kled.com.mx/
 
 P: ¿Cuál es la propuesta de valor de la tienda?
-R: Productos de alta Calidad, servicio personalizado.
+R: Productos de alta Calidad, servicio personalizado. https://www.kled.com.mx/
+
+P: ¿Qué hace diferente a Kled frente a otras tiendas?
+R: Productos de alta Calidad, servicio personalizado. https://www.kled.com.mx/
+
+P: ¿Por qué elegir Kled en lugar de otra tienda?
+R: Productos de alta Calidad, servicio personalizado. https://www.kled.com.mx/
 
 P: ¿Cuáles son los horarios de atención al cliente si un usuario necesita contactar a un humano?
+R: 9:00 am – 4:00 pm Horario de la Ciudad de México.
+
+P: ¿En qué horario atienden si quiero hablar con una persona?
+R: 9:00 am – 4:00 pm Horario de la Ciudad de México.
+
+P: ¿A qué hora puedo contactar a atención al cliente?
 R: 9:00 am – 4:00 pm Horario de la Ciudad de México.
 
 P: ¿En qué idiomas ofrecerán soporte?
 R: Únicamente español.
 
-P: ¿Qué canales de contacto tendrán disponibles además del bot? 
-R: WhatsApp (5573289301), correo electrónico (ventas@kled.com.mx), teléfono (5561638256), Facebook (https://www.facebook.com/profile.php?id=61574612194220)
+P: ¿Qué idioma utilizan para brindar soporte?
+R: Únicamente español.
+
+P: ¿El soporte está disponible solo en español?
+R: Únicamente español.
+
+P: ¿Qué canales de contacto tendrán disponibles además del bot?
+R: WhatsApp (5573289301), correo electrónico (ventas@kled.com.mx), teléfono (5561638256), Facebook (https://www.facebook.com/profile.php?id=61574612194220), Nuestra página web https://www.kled.com.mx/
+
+P: ¿Cómo puedo comunicarme con ustedes además del bot?
+R: WhatsApp (5573289301), correo electrónico (ventas@kled.com.mx), teléfono (5561638256), Facebook (https://www.facebook.com/profile.php?id=61574612194220), Nuestra página web https://www.kled.com.mx/
+
+P: ¿Qué otros medios de contacto tienen además del asistente virtual?
+R: WhatsApp (5573289301), correo electrónico (ventas@kled.com.mx), teléfono (5561638256), Facebook (https://www.facebook.com/profile.php?id=61574612194220), Nuestra página web https://www.kled.com.mx/
+
+P: ¿Tienen tienda física o solo operan en línea?
+R: Actualmente, Kled opera únicamente como tienda online. Todos los pedidos se realizan a través de nuestro sitio web https://www.kled.com.mx/
+
+P: ¿Cuentan con alguna sucursal física o solo venden por internet?
+R: Actualmente, Kled opera únicamente como tienda online. Todos los pedidos se realizan a través de nuestro sitio web https://www.kled.com.mx/
+
+P: ¿Venden exclusivamente en línea o también tienen tienda física?
+R: Actualmente, Kled opera únicamente como tienda online. Todos los pedidos se realizan a través de nuestro sitio web https://www.kled.com.mx/
+
+P: ¿Puedo visitar alguna sucursal o showroom?
+R: Por el momento no contamos con sucursales abiertas al público. Nuestra atención es 100% digital. https://www.kled.com.mx/
+
+P: ¿Tienen algún lugar físico donde pueda ver los productos?
+R: Por el momento no contamos con sucursales abiertas al público. Nuestra atención es 100% digital. https://www.kled.com.mx/
+
+P: ¿Existe algún showroom que pueda visitar?
+R: Por el momento no contamos con sucursales abiertas al público. Nuestra atención es 100% digital. https://www.kled.com.mx/
+
+P: ¿La tienda es segura para comprar?
+R: Sí, nuestro sitio web cuenta con cifrado SSL y trabajamos con pasarelas de pago confiables para proteger la información del cliente.
+
+P: ¿Es confiable hacer compras en su tienda?
+R: Sí, nuestro sitio web cuenta con cifrado SSL y trabajamos con pasarelas de pago confiables para proteger la información del cliente.
+
+P: ¿Mi información está protegida al comprar con ustedes?
+R: Sí, nuestro sitio web cuenta con cifrado SSL y trabajamos con pasarelas de pago confiables para proteger la información del cliente.
+
+P: ¿Cómo puedo saber si Kled es una tienda confiable?
+R: Puedes revisar nuestras redes sociales, opiniones de clientes, y nuestra trayectoria. Además, ofrecemos atención personalizada y soporte ante cualquier inconveniente. https://www.kled.com.mx/
+
+P: ¿Qué evidencias hay de que Kled es una tienda segura?
+R: Puedes revisar nuestras redes sociales, opiniones de clientes, y nuestra trayectoria. Además, ofrecemos atención personalizada y soporte ante cualquier inconveniente. https://www.kled.com.mx/
+
+P: ¿Cómo puedo comprobar que comprar en Kled es confiable?
+R: Puedes revisar nuestras redes sociales, opiniones de clientes, y nuestra trayectoria. Además, ofrecemos atención personalizada y soporte ante cualquier inconveniente. https://www.kled.com.mx/
+
+P: ¿Puedo recibir atención personalizada para elegir productos?
+R: Sí, puedes comunicarte por WhatsApp o correo electrónico para recibir ayuda en la elección del producto que mejor se adapte a tus necesidades.
+
+P: ¿Me pueden asesorar para elegir el producto correcto?
+R: Sí, puedes comunicarte por WhatsApp o correo electrónico para recibir ayuda en la elección del producto que mejor se adapte a tus necesidades.
+
+P: ¿Puedo obtener ayuda personalizada para decidir qué comprar?
+R: Sí, puedes comunicarte por WhatsApp o correo electrónico para recibir ayuda en la elección del producto que mejor se adapte a tus necesidades.
 
 2. Proceso de Compra
+
 P: ¿Cuáles son los pasos para comprar en la tienda?
-R: El proceso de compra en una tienda online comienza al seleccionar el producto deseado, verificando que la cantidad, modelo, color y tamaño sean los correctos. Una vez confirmado, se agrega al carrito y se procede a realizar la compra. En esta etapa, el cliente debe ingresar sus datos personales y de domicilio, así como la información bancaria para efectuar el pago. Tras completar la transacción, se recibe un correo electrónico de confirmación. Posteriormente, solo queda esperar el tiempo estimado de entrega para recibir los productos en casa. Finalmente, el cliente puede participar en una encuesta de satisfacción para compartir su experiencia de compra.
+R: El proceso de compra en una tienda online comienza al seleccionar el producto deseado, verificando que la cantidad, modelo, color y tamaño sean los correctos. Una vez confirmado, se agrega al carrito y se procede a realizar la compra. En esta etapa, el cliente debe ingresar sus datos personales y de domicilio, así como la información bancaria para efectuar el pago. Tras completar la transacción, se recibe un correo electrónico de confirmación. Posteriormente, solo queda esperar el tiempo estimado de entrega para recibir los productos en casa. Finalmente, el cliente puede participar en una encuesta de satisfacción para compartir su experiencia de compra. https://www.kled.com.mx/
+
+P: ¿Cómo se realiza una compra en la tienda?
+R: El proceso de compra en una tienda online comienza al seleccionar el producto deseado, verificando que la cantidad, modelo, color y tamaño sean los correctos. Una vez confirmado, se agrega al carrito y se procede a realizar la compra. En esta etapa, el cliente debe ingresar sus datos personales y de domicilio, así como la información bancaria para efectuar el pago. Tras completar la transacción, se recibe un correo electrónico de confirmación. Posteriormente, solo queda esperar el tiempo estimado de entrega para recibir los productos en casa. Finalmente, el cliente puede participar en una encuesta de satisfacción para compartir su experiencia de compra. https://www.kled.com.mx/
+
+P: ¿Qué debo hacer para comprar algo en la tienda?
+R: El proceso de compra en una tienda online comienza al seleccionar el producto deseado, verificando que la cantidad, modelo, color y tamaño sean los correctos. Una vez confirmado, se agrega al carrito y se procede a realizar la compra. En esta etapa, el cliente debe ingresar sus datos personales y de domicilio, así como la información bancaria para efectuar el pago. Tras completar la transacción, se recibe un correo electrónico de confirmación. Posteriormente, solo queda esperar el tiempo estimado de entrega para recibir los productos en casa. Finalmente, el cliente puede participar en una encuesta de satisfacción para compartir su experiencia de compra. https://www.kled.com.mx/
 
 P: ¿Qué métodos de pago se aceptan?
 R: Tarjetas de crédito y débito, pago en efectivo (Oxxo) y Mercado pago.
 
+P: ¿Cómo puedo pagar en la tienda?
+R: Tarjetas de crédito y débito, pago en efectivo (Oxxo) y Mercado pago.
+
+P: ¿Qué formas de pago están disponibles?
+R: Tarjetas de crédito y débito, pago en efectivo (Oxxo) y Mercado pago.
+
 P: ¿Se requiere crear una cuenta para comprar o se puede hacer compra como invitado?
-R: Si, es necesario crear una cuenta.
+R: Sí, es necesario crear una cuenta. https://www.kled.com.mx/
+
+P: ¿Puedo comprar sin registrarme o necesito una cuenta?
+R: Sí, es necesario crear una cuenta. https://www.kled.com.mx/
+
+P: ¿Es obligatorio crear una cuenta para hacer una compra?
+R: Sí, es necesario crear una cuenta. https://www.kled.com.mx/
 
 P: ¿Cómo se confirma que la compra fue exitosa?
 R: Por medio de un correo electrónico.
 
+P: ¿Recibiré alguna notificación al completar mi compra?
+R: Por medio de un correo electrónico.
+
+P: ¿Cómo sabré si mi compra fue procesada correctamente?
+R: Por medio de un correo electrónico.
+
 P: ¿Se pueden hacer modificaciones o cancelaciones a un pedido después de haber sido realizado?
-R: Modificaciones no, pero su cancelación puede solicitarla al enviar un correo ventas@kled.com.mx explicando su situación.
+R: Modificaciones no, pero su cancelación puede solicitarla al enviar un correo a ventas@kled.com.mx explicando su situación.
+
+P: ¿Puedo cancelar o cambiar mi pedido después de comprar?
+R: Modificaciones no, pero su cancelación puede solicitarla al enviar un correo a ventas@kled.com.mx explicando su situación.
+
+P: ¿Hay forma de modificar o cancelar un pedido ya hecho?
+R: Modificaciones no, pero su cancelación puede solicitarla al enviar un correo a ventas@kled.com.mx explicando su situación.
+
+P: ¿Puedo hacer una compra por WhatsApp o teléfono?
+R: No, todas las compras deben realizarse a través de la tienda en línea. Sin embargo, puedes recibir asesoría por WhatsApp.
+
+P: ¿Es posible comprar por teléfono o WhatsApp directamente?
+R: No, todas las compras deben realizarse a través de la tienda en línea. Sin embargo, puedes recibir asesoría por WhatsApp.
+
+P: ¿Puedo ordenar un producto hablando con alguien por teléfono?
+R: No, todas las compras deben realizarse a través de la tienda en línea. Sin embargo, puedes recibir asesoría por WhatsApp.
+
+P: ¿Qué hago si no recibí el correo de confirmación?
+R: Revisa tu bandeja de spam o correo no deseado. Si no está ahí, por favor contacta al correo ventas@kled.com.mx.
+
+P: ¿No me llegó el correo de confirmación, qué debo hacer?
+R: Revisa tu bandeja de spam o correo no deseado. Si no está ahí, por favor contacta al correo ventas@kled.com.mx.
+
+P: ¿Qué hago si no encuentro el correo que confirma mi compra?
+R: Revisa tu bandeja de spam o correo no deseado. Si no está ahí, por favor contacta al correo ventas@kled.com.mx.
+
+P: ¿Puedo comprar varios productos a la vez?
+R: Sí, puedes agregar múltiples productos al carrito y comprarlos en una sola transacción.
+
+P: ¿Es posible comprar más de un producto en una sola compra?
+R: Sí, puedes agregar múltiples productos al carrito y comprarlos en una sola transacción.
+
+P: ¿Puedo hacer un solo pedido con varios artículos?
+R: Sí, puedes agregar múltiples productos al carrito y comprarlos en una sola transacción.
+
+P: ¿Puedo guardar productos para comprar después?
+R: Si estás registrado, puedes usar la función de "Favoritos" o "Lista de Deseos" para guardar productos.
+
+P: ¿Se pueden guardar artículos para comprarlos más adelante?
+R: Si estás registrado, puedes usar la función de "Favoritos" o "Lista de Deseos" para guardar productos.
+
+P: ¿Cómo guardo productos si no quiero comprarlos de inmediato?
+R: Si estás registrado, puedes usar la función de "Favoritos" o "Lista de Deseos" para guardar productos.
+
+
+P: ¿Hay un monto mínimo de compra?
+R: No, puedes comprar desde un solo producto si lo deseas.
+
+P: ¿Existe una cantidad mínima para poder comprar?
+R: No, puedes comprar desde un solo producto si lo deseas.
+
+P: ¿Puedo hacer un pedido pequeño o hay que gastar un mínimo?
+R: No, puedes comprar desde un solo producto si lo deseas.
+
+P: ¿Cómo se protegen mis datos personales durante la compra?
+R: Utilizamos protocolos de seguridad estándar en la industria para proteger toda la información ingresada en nuestra tienda online.
+
+P: ¿Qué hacen para asegurar mis datos al comprar?
+R: Utilizamos protocolos de seguridad estándar en la industria para proteger toda la información ingresada en nuestra tienda online.
+
+P: ¿Mis datos están seguros al hacer una compra en su sitio?
+R: Utilizamos protocolos de seguridad estándar en la industria para proteger toda la información ingresada en nuestra tienda online.
 
 3. Información sobre los Productos
-P: ¿Cómo se actualiza la disponibilidad de los productos en la tienda?
-R: De manera manual y se realiza de manera periódica.
+
+P: ¿Qué tipo de productos ofrece la tienda?
+R: Ofrecemos productos de seguridad y materiales para la construcción, como guantes, cascos, lentes, arneses, cintas aislantes y más.
+
+P: ¿Qué clase de artículos venden en la tienda?
+R: Ofrecemos productos de seguridad y materiales para la construcción, como guantes, cascos, lentes, arneses, cintas aislantes y más.
+
+P: ¿Qué productos puedo encontrar en su catálogo?
+R: Ofrecemos productos de seguridad y materiales para la construcción, como guantes, cascos, lentes, arneses, cintas aislantes y más.
 
 P: ¿Los productos tienen garantía?
-R: Únicamente los equipos de seguridad.
+R: Sí, todos nuestros productos cuentan con garantía contra defectos de fabricación. Consulta cada producto para conocer la duración específica.
 
-P: ¿Hay variaciones de los productos?
-R: No
+P: ¿Cuentan con garantía en sus productos?
+R: Sí, todos nuestros productos cuentan con garantía contra defectos de fabricación. Consulta cada producto para conocer la duración específica.
 
-P: ¿Los productos tienen instrucciones de uso o cuidado?
-R: Si, se incluye dentro del producto.
+P: ¿Qué respaldo ofrecen si un producto tiene fallas?
+R: Sí, todos nuestros productos cuentan con garantía contra defectos de fabricación. Consulta cada producto para conocer la duración específica.
+
+P: ¿Dónde puedo ver las especificaciones técnicas de un producto?
+R: Dentro de cada producto en el sitio web encontrarás una descripción detallada, incluyendo materiales, usos recomendados y características técnicas.
+
+P: ¿En qué parte puedo consultar los detalles técnicos de un artículo?
+R: Dentro de cada producto en el sitio web encontrarás una descripción detallada, incluyendo materiales, usos recomendados y características técnicas.
+
+P: ¿Cómo puedo saber las características técnicas de un producto?
+R: Dentro de cada producto en el sitio web encontrarás una descripción detallada, incluyendo materiales, usos recomendados y características técnicas.
+
+
+P: ¿Cómo puedo saber si un producto está disponible?
+R: En cada producto se indica el stock disponible. Si un artículo aparece como “Agotado”, puedes solicitar que te notifiquemos cuando vuelva a estar disponible.
+
+P: ¿Dónde veo si un producto está en existencia?
+R: En cada producto se indica el stock disponible. Si un artículo aparece como “Agotado”, puedes solicitar que te notifiquemos cuando vuelva a estar disponible.
+
+P: ¿Cómo sé si un artículo está en stock?
+R: En cada producto se indica el stock disponible. Si un artículo aparece como “Agotado”, puedes solicitar que te notifiquemos cuando vuelva a estar disponible.
+
+P: ¿Los colores de los productos pueden variar?
+R: Sí, los colores pueden variar ligeramente dependiendo del proveedor o la pantalla desde la que estés viendo el producto.
+
+P: ¿Puede haber diferencias en el color del producto real?
+R: Sí, los colores pueden variar ligeramente dependiendo del proveedor o la pantalla desde la que estés viendo el producto.
+
+P: ¿Los colores siempre son iguales a los que aparecen en la página?
+R: Sí, los colores pueden variar ligeramente dependiendo del proveedor o la pantalla desde la que estés viendo el producto.
+
+P: ¿Puedo pedir un producto en un color específico?
+R: Puedes seleccionar el color si está disponible en el sitio. Si no aparece como opción, no está disponible actualmente.
+
+P: ¿Se puede elegir el color del producto al comprar?
+R: Puedes seleccionar el color si está disponible en el sitio. Si no aparece como opción, no está disponible actualmente.
+
+P: ¿Puedo escoger un color distinto al que aparece?
+R: Puedes seleccionar el color si está disponible en el sitio. Si no aparece como opción, no está disponible actualmente.
+
+P: ¿Venden productos por mayoreo?
+R: Sí, manejamos precios especiales para compras al por mayor. Por favor, comunícate con ventas@kled.com.mx para recibir una cotización personalizada.
+
+P: ¿Puedo comprar grandes cantidades a precio especial?
+R: Sí, manejamos precios especiales para compras al por mayor. Por favor, comunícate con ventas@kled.com.mx para recibir una cotización personalizada.
+
+P: ¿Ofrecen ventas al por mayor o precios para distribuidores?
+R: Sí, manejamos precios especiales para compras al por mayor. Por favor, comunícate con ventas@kled.com.mx para recibir una cotización personalizada.
+
+P: ¿Venden productos certificados?
+R: Sí, varios de nuestros productos cuentan con certificaciones de calidad o seguridad. Esta información aparece en la ficha del producto correspondiente.
+
+P: ¿Sus productos tienen certificaciones de calidad?
+R: Sí, varios de nuestros productos cuentan con certificaciones de calidad o seguridad. Esta información aparece en la ficha del producto correspondiente.
+
+P: ¿Cuentan con productos avalados por normas oficiales?
+R: Sí, varios de nuestros productos cuentan con certificaciones de calidad o seguridad. Esta información aparece en la ficha del producto correspondiente.
+
+P: ¿Cómo puedo saber qué producto me conviene más?
+R: Puedes contactar a nuestro equipo por WhatsApp o correo para recibir asesoría sobre qué producto se adapta mejor a tus necesidades.
+
+P: ¿Quién me puede ayudar a elegir el producto adecuado?
+R: Puedes contactar a nuestro equipo por WhatsApp o correo para recibir asesoría sobre qué producto se adapta mejor a tus necesidades.
+
+P: ¿Dónde puedo recibir ayuda para escoger el producto ideal?
+R: Puedes contactar a nuestro equipo por WhatsApp o correo para recibir asesoría sobre qué producto se adapta mejor a tus necesidades.
+
+P: ¿Todos los productos tienen tallas?
+R: Solo aquellos que lo requieren, como guantes o arneses. Asegúrate de revisar la guía de tallas antes de comprar.
+
+P: ¿Cada producto viene en diferentes tallas?
+R: Solo aquellos que lo requieren, como guantes o arneses. Asegúrate de revisar la guía de tallas antes de comprar.
+
+P: ¿Todos los artículos requieren elegir una talla?
+R: Solo aquellos que lo requieren, como guantes o arneses. Asegúrate de revisar la guía de tallas antes de comprar.
+
+P: ¿Cómo se comparan sus productos con los de otras marcas?
+R: Seleccionamos productos que destacan por su calidad y durabilidad. Puedes revisar la descripción de cada producto y contactar al equipo para comparativas específicas.
+
+P: ¿Qué diferencia hay entre sus productos y los de otras marcas?
+R: Seleccionamos productos que destacan por su calidad y durabilidad. Puedes revisar la descripción de cada producto y contactar al equipo para comparativas específicas.
+
+P: ¿Sus productos son mejores que los de la competencia?
+R: Seleccionamos productos que destacan por su calidad y durabilidad. Puedes revisar la descripción de cada producto y contactar al equipo para comparativas específicas.
+
+P: ¿Qué debo hacer si tengo dudas técnicas sobre un producto?
+R: Escríbenos por WhatsApp o correo con tu duda y nuestro equipo técnico te ayudará a resolverla.
+
+P: ¿A dónde puedo preguntar si tengo dudas técnicas sobre un artículo?
+R: Escríbenos por WhatsApp o correo con tu duda y nuestro equipo técnico te ayudará a resolverla.
+
+P: ¿Cómo puedo resolver mis dudas técnicas sobre algún producto?
+R: Escríbenos por WhatsApp o correo con tu duda y nuestro equipo técnico te ayudará a resolverla.
 
 4. Envíos
-P: ¿Qué opciones de envío están disponibles?
-R: REDPACK, FEDEX, Paquetexpress y DHL.
 
-P: ¿Cuáles son los tiempos estimados de entrega por tipo de envío y ubicación?
-R: Cada una de nuestras opciones de envió tienen diferentes tiempos de envió y al momento de seleccionarlo se presenta su tiempo estimado que puede ser desde un día hasta dos semanas.
+P: ¿Hacen envíos a todo México?
+R: Sí, realizamos envíos a cualquier parte de la República Mexicana a través de paqueterías confiables.
 
-P: ¿Cuál es el costo del envío y existen promociones como envío gratuito a partir de cierto monto?
-R: Con nuestra variedad de opciones de envió el costo puede variar dependiendo la compañía, dejamos la elección de compañía al cliente.
+P: ¿Pueden enviar productos a cualquier estado de México?
+R: Sí, realizamos envíos a cualquier parte de la República Mexicana a través de paqueterías confiables.
 
-P: ¿Se puede hacer rastreo del pedido?
-R: Sí, al momento de ser enviado el paquete le proporcionaremos la guía para que pueda ser rastreado el pedido.
+P: ¿Realizan entregas en todo el país?
+R: Sí, realizamos envíos a cualquier parte de la República Mexicana a través de paqueterías confiables.
 
-P: ¿Desde qué ubicación se envían los pedidos?
-R: Desde Coyoacán, Ciudad de México.
+P: ¿Qué paqueterías utilizan para los envíos?
+R: Usamos servicios de envío como FedEx, Estafeta, Redpack y otras según disponibilidad y destino.
 
-P: ¿Los envíos se hacen solo a ciertas ciudades/países o es un servicio global?
-R: Solamente dentro de la República Mexicana.
+P: ¿Con qué empresas de mensajería hacen los envíos?
+R: Usamos servicios de envío como FedEx, Estafeta, Redpack y otras según disponibilidad y destino.
 
-P: ¿Qué sucede si el pedido llega dañado o incompleto?
-R: Se le recomienda al cliente al momento de recibir el paquete generar evidencia del estado del paquete antes y después de abrirlo para llevar el debido proceso de devolución.
+P: ¿Qué compañías de paquetería usan para entregar los pedidos?
+R: Usamos servicios de envío como FedEx, Estafeta, Redpack y otras según disponibilidad y destino.
+
+P: ¿Cuánto cuesta el envío?
+R: El costo depende del peso, volumen del paquete y la ubicación del destinatario. Se calcula automáticamente al finalizar la compra.
+
+P: ¿Qué precio tiene el envío a mi domicilio?
+R: El costo depende del peso, volumen del paquete y la ubicación del destinatario. Se calcula automáticamente al finalizar la compra.
+
+P: ¿Cómo se determina el costo del envío?
+R: El costo depende del peso, volumen del paquete y la ubicación del destinatario. Se calcula automáticamente al finalizar la compra.
+
+P: ¿Hay envío gratis?
+R: Ocasionalmente ofrecemos promociones de envío gratis. También puedes acceder a envío gratuito en compras mayores a cierta cantidad (consulta en la página principal).
+
+P: ¿Ofrecen envíos sin costo?
+R: Ocasionalmente ofrecemos promociones de envío gratis. También puedes acceder a envío gratuito en compras mayores a cierta cantidad (consulta en la página principal).
+
+P: ¿Puedo obtener envío gratuito con mi compra?
+R: Ocasionalmente ofrecemos promociones de envío gratis. También puedes acceder a envío gratuito en compras mayores a cierta cantidad (consulta en la página principal).
+
+P: ¿Cuánto tiempo tarda en llegar mi pedido?
+R: Los envíos tardan entre 2 y 7 días hábiles dependiendo de tu ubicación. Algunas zonas remotas pueden requerir más tiempo.
+
+P: ¿En cuántos días recibiré mi pedido?
+R: Los envíos tardan entre 2 y 7 días hábiles dependiendo de tu ubicación. Algunas zonas remotas pueden requerir más tiempo.
+
+P: ¿Cuál es el tiempo estimado de entrega?
+R: Los envíos tardan entre 2 y 7 días hábiles dependiendo de tu ubicación. Algunas zonas remotas pueden requerir más tiempo.
+
+P: ¿Puedo elegir la paquetería?
+R: No directamente, pero intentamos seleccionar la mejor opción para tu zona.
+
+P: ¿Se puede escoger la empresa de mensajería?
+R: No directamente, pero intentamos seleccionar la mejor opción para tu zona.
+
+P: ¿Tienen opción para que el cliente elija la paquetería?
+R: No directamente, pero intentamos seleccionar la mejor opción para tu zona.
+
+P: ¿Puedo rastrear mi envío?
+R: Sí, una vez enviado el pedido, recibirás un número de guía por correo para que puedas rastrearlo en el sitio de la paquetería.
+
+P: ¿Cómo puedo seguir mi pedido después de comprar?
+R: Sí, una vez enviado el pedido, recibirás un número de guía por correo para que puedas rastrearlo en el sitio de la paquetería.
+
+P: ¿Me dan un número para rastrear el paquete?
+R: Sí, una vez enviado el pedido, recibirás un número de guía por correo para que puedas rastrearlo en el sitio de la paquetería.
+
+P: ¿Qué pasa si no estoy en casa cuando llega el pedido?
+R: La paquetería intentará hacer hasta 2 entregas. En caso de no éxito, puedes recoger el paquete directamente en sus oficinas.
+
+P: ¿Qué ocurre si no hay nadie para recibir el paquete?
+R: La paquetería intentará hacer hasta 2 entregas. En caso de no éxito, puedes recoger el paquete directamente en sus oficinas.
+
+P: ¿Qué sucede si no estoy disponible al momento de la entrega?
+R: La paquetería intentará hacer hasta 2 entregas. En caso de no éxito, puedes recoger el paquete directamente en sus oficinas.
+
+P: ¿Realizan entregas en fines de semana?
+R: Depende de la paquetería seleccionada. Algunas ofrecen entregas los sábados, pero no podemos garantizarlo.
+
+P: ¿Pueden entregar los sábados o domingos?
+R: Depende de la paquetería seleccionada. Algunas ofrecen entregas los sábados, pero no podemos garantizarlo.
+
+P: ¿Hacen envíos los fines de semana?
+R: Depende de la paquetería seleccionada. Algunas ofrecen entregas los sábados, pero no podemos garantizarlo.
+
+P: ¿Puedo recoger mi pedido en algún lugar?
+R: No, por el momento solo hacemos entregas a domicilio.
+
+P: ¿Tienen algún punto para recoger los pedidos personalmente?
+R: No, por el momento solo hacemos entregas a domicilio.
+
+P: ¿Es posible pasar por el pedido en lugar de recibirlo en casa?
+R: No, por el momento solo hacemos entregas a domicilio.
+
+P: ¿Hacen envíos internacionales?
+R: No, actualmente solo hacemos envíos dentro de México.
+
+P: ¿Puedo pedir desde el extranjero?
+R: No, actualmente solo hacemos envíos dentro de México.
+
+P: ¿Envían productos fuera del país?
+R: No, actualmente solo hacemos envíos dentro de México.
+
+P: ¿Puedo programar el día exacto de entrega?
+R: No garantizamos fechas exactas. Puedes monitorear tu envío y estimar el día aproximado con la guía de rastreo.
+
+P: ¿Se puede elegir una fecha específica para recibir el paquete?
+R: No garantizamos fechas exactas. Puedes monitorear tu envío y estimar el día aproximado con la guía de rastreo.
+
+P: ¿Puedo decidir qué día me entregan el pedido?
+R: No garantizamos fechas exactas. Puedes monitorear tu envío y estimar el día aproximado con la guía de rastreo.
+
+P: ¿Qué hago si mi paquete llega dañado?
+R: Revisa el paquete al recibirlo. Si presenta daños visibles, repórtalo inmediatamente a la paquetería y contáctanos con fotos al correo ventas@kled.com.mx.
+
+P: ¿Cómo debo proceder si el paquete viene maltratado?
+R: Revisa el paquete al recibirlo. Si presenta daños visibles, repórtalo inmediatamente a la paquetería y contáctanos con fotos al correo ventas@kled.com.mx.
+
+P: ¿Qué pasos sigo si recibo un producto dañado?
+R: Revisa el paquete al recibirlo. Si presenta daños visibles, repórtalo inmediatamente a la paquetería y contáctanos con fotos al correo ventas@kled.com.mx.
+
 
 5. Cambios y Devoluciones
-P: ¿Cuánto tiempo tiene el cliente para solicitar un cambio o devolución?
-R: Dos semanas.
 
-P: ¿Cuáles son las condiciones para que una devolución o cambio sea válido?
-R: La única condición para solicitar un cambio o devolución es si el producto se encuentra en malas condiciones.
+P: ¿Puedo devolver un producto si no me gustó?
+R: Solo se aceptan devoluciones en caso de defecto de fábrica. Si no estás conforme con tu compra, puedes contactarnos y evaluaremos tu caso de forma personalizada.
 
-P: ¿Cómo se inicia el proceso de cambio o devolución?
-R: Desde nuestra tienda en línea (https://www.kled.com.mx/) y a su vez se recomienda que envié un mensaje al correo electrónico (ventas@kled.com.mx) explicando su situación.
+P: ¿Es posible devolver un artículo si no me convence?
+R: Solo se aceptan devoluciones en caso de defecto de fábrica. Si no estás conforme con tu compra, puedes contactarnos y evaluaremos tu caso de forma personalizada.
 
-P: ¿Quién cubre el costo del envío en caso de cambios o devoluciones?
-R: Si el cliente compra el seguro de envió ya se encuentran cubiertos si no es el caso el costo será por parte del cliente aunque si lo considera necesario puede enviar un mensaje al correo ventas@kled.com.mx explicando su situación.
+P: ¿Puedo regresar un producto si no cumplió mis expectativas?
+R: Solo se aceptan devoluciones en caso de defecto de fábrica. Si no estás conforme con tu compra, puedes contactarnos y evaluaremos tu caso de forma personalizada.
 
-P: ¿Cuánto tiempo tarda en procesarse un reembolso o cambio una vez solicitado?
-R: Sin contar el tiempo del traslado del paquete de 3 a 5 días hábiles.
+P: ¿Qué productos no tienen devolución?
+R: Por razones de higiene y seguridad, algunos productos como guantes, mascarillas y lentes no tienen devolución si el empaque ha sido abierto.
 
-P: ¿En qué casos no se aceptan devoluciones?
-R: Una mala elección de productos o especificación del mismo por parte del cliente.  
+P: ¿Cuáles son los artículos que no aceptan devoluciones?
+R: Por razones de higiene y seguridad, algunos productos como guantes, mascarillas y lentes no tienen devolución si el empaque ha sido abierto.
 
-P: ¿Se hace devolución en dinero o en crédito para futuras compras?
-R: Se realizara la devolución por el medio de compra que se realizo únicamente.
+P: ¿Qué productos están excluidos de la política de devoluciones?
+R: Por razones de higiene y seguridad, algunos productos como guantes, mascarillas y lentes no tienen devolución si el empaque ha sido abierto.
+
+P: ¿Cuál es el plazo para solicitar una devolución?
+R: Dispones de hasta 5 días naturales después de recibir tu pedido para solicitar una devolución por defecto.
+
+P: ¿En cuánto tiempo debo pedir una devolución si algo está mal?
+R: Dispones de hasta 5 días naturales después de recibir tu pedido para solicitar una devolución por defecto.
+
+P: ¿Cuántos días tengo para iniciar un proceso de devolución?
+R: Dispones de hasta 5 días naturales después de recibir tu pedido para solicitar una devolución por defecto.
+
+P: ¿Cómo solicito un cambio de producto?
+R: Debes escribir a ventas@kled.com.mx explicando tu caso, incluyendo número de pedido, fotos del producto y motivo del cambio.
+
+P: ¿Qué pasos debo seguir para pedir un cambio de producto?
+R: Debes escribir a ventas@kled.com.mx explicando tu caso, incluyendo número de pedido, fotos del producto y motivo del cambio.
+
+P: ¿Cómo puedo gestionar el cambio de un artículo?
+R: Debes escribir a ventas@kled.com.mx explicando tu caso, incluyendo número de pedido, fotos del producto y motivo del cambio.
+
+P: ¿Qué hago si el producto llegó dañado?
+R: Contáctanos de inmediato al correo o WhatsApp con fotos claras del producto dañado y del empaque. Te ayudaremos a hacer válida la garantía.
+
+P: ¿Cómo debo actuar si recibo un producto en mal estado?
+R: Contáctanos de inmediato al correo o WhatsApp con fotos claras del producto dañado y del empaque. Te ayudaremos a hacer válida la garantía.
+
+P: ¿Qué procedimiento sigo si el artículo llegó con daño?
+R: Contáctanos de inmediato al correo o WhatsApp con fotos claras del producto dañado y del empaque. Te ayudaremos a hacer válida la garantía.
+
+P: ¿Tengo que pagar el envío en una devolución?
+R: Si el error fue nuestro o el producto está defectuoso, nosotros cubrimos el envío. Si fue por error del cliente (como elegir talla incorrecta), el cliente asume el costo.
+
+P: ¿Quién paga el envío en caso de una devolución?
+R: Si el error fue nuestro o el producto está defectuoso, nosotros cubrimos el envío. Si fue por error del cliente (como elegir talla incorrecta), el cliente asume el costo.
+
+P: ¿Debo cubrir el costo de envío si devuelvo un producto?
+R: Si el error fue nuestro o el producto está defectuoso, nosotros cubrimos el envío. Si fue por error del cliente (como elegir talla incorrecta), el cliente asume el costo.
+
+P: ¿Puedo cambiar un producto por otro diferente?
+R: No. Solo aceptamos cambios por el mismo producto en diferente talla o color (si está disponible).
+
+P: ¿Se puede cambiar un artículo por uno distinto?
+R: No. Solo aceptamos cambios por el mismo producto en diferente talla o color (si está disponible).
+
+P: ¿Puedo solicitar un cambio por otro tipo de producto?
+R: No. Solo aceptamos cambios por el mismo producto en diferente talla o color (si está disponible).
+
+P: ¿Cómo sé si mi solicitud de devolución fue aceptada?
+R: Recibirás una respuesta por correo electrónico con las instrucciones y condiciones del cambio o devolución.
+
+P: ¿Me avisan si aprueban la devolución?
+R: Recibirás una respuesta por correo electrónico con las instrucciones y condiciones del cambio o devolución.
+
+P: ¿Cómo sabré si aceptaron mi solicitud de devolución?
+R: Recibirás una respuesta por correo electrónico con las instrucciones y condiciones del cambio o devolución.
+
+P: ¿En cuánto tiempo recibiré el reembolso?
+R: Si aplica reembolso, este será procesado en un plazo de 5 a 10 días hábiles una vez aceptada la devolución.
+
+P: ¿Cuándo me devuelven el dinero si procede un reembolso?
+R: Si aplica reembolso, este será procesado en un plazo de 5 a 10 días hábiles una vez aceptada la devolución.
+
+P: ¿Cuál es el tiempo estimado para recibir mi reembolso?
+R: Si aplica reembolso, este será procesado en un plazo de 5 a 10 días hábiles una vez aceptada la devolución.
+
+P: ¿Puedo cancelar un pedido después de pagarlo?
+R: Solo se puede cancelar si el pedido aún no ha sido procesado ni enviado. Escribe lo antes posible a ventas@kled.com.mx.
+
+P: ¿Es posible anular una compra después del pago?
+R: Solo se puede cancelar si el pedido aún no ha sido procesado ni enviado. Escribe lo antes posible a ventas@kled.com.mx.
+
+P: ¿Puedo cancelar un pedido ya pagado si aún no lo han enviado?
+R: Solo se puede cancelar si el pedido aún no ha sido procesado ni enviado. Escribe lo antes posible a ventas@kled.com.mx.
+
+P: ¿Qué pasa si recibo un producto equivocado?
+R: Si recibiste un producto diferente al que pediste, te enviaremos el correcto sin costo adicional y recogeremos el equivocado.
+
+P: ¿Qué hago si el artículo que llegó no es el que pedí?
+R: Si recibiste un producto diferente al que pediste, te enviaremos el correcto sin costo adicional y recogeremos el equivocado.
+
+P: ¿Cómo resuelven si me mandaron el producto incorrecto?
+R: Si recibiste un producto diferente al que pediste, te enviaremos el correcto sin costo adicional y recogeremos el equivocado.
+
 
 6. Soporte y Atención al Cliente
-P: En qué horario hay atención humana disponible si el bot no resuelve la consulta?
-R: 10:00 am - 5:30 pm Horario de la Ciudad de México. 
 
-P: ¿Cuál es el tiempo de respuesta estimado si un cliente es redirigido a un agente?
-R: De 1 a 5 minutos.
+P: ¿Cómo puedo contactar al servicio de atención al cliente?
+R: Puedes escribirnos por WhatsApp al 5573289301, por correo electrónico a ventas@kled.com.mx o llamarnos al 5561638256.
 
-P: ¿Cómo se contacta a un humano?
-R: Cuando solicite conversar con un agente en el chatbot, al mandar un correo a ventas@kled.com.mx o directamente al numero 5561638256.
+P: ¿Dónde puedo comunicarme si necesito ayuda?
+R: Puedes escribirnos por WhatsApp al 5573289301, por correo electrónico a ventas@kled.com.mx o llamarnos al 5561638256.
 
-P: ¿Cómo manejarán los casos urgentes o problemas graves con pedidos?
-R: Se le recomienda al cliente contactarse al numero 5561638256 o enviar un correo a ventas@kled.com.mx explicando su situación.
+P: ¿Qué medios tienen para contactar a soporte?
+R: Puedes escribirnos por WhatsApp al 5573289301, por correo electrónico a ventas@kled.com.mx o llamarnos al 5561638256.
+
+P: ¿Cuál es el horario de atención?
+R: De lunes a viernes de 9:00 a.m. a 4:00 p.m., hora de la Ciudad de México.
+
+P: ¿En qué horario atienden dudas o consultas?
+R: De lunes a viernes de 9:00 a.m. a 4:00 p.m., hora de la Ciudad de México.
+
+P: ¿Cuándo puedo comunicarme con ustedes?
+R: De lunes a viernes de 9:00 a.m. a 4:00 p.m., hora de la Ciudad de México.
+
+P: ¿Cuánto tardan en responder los mensajes?
+R: Respondemos generalmente el mismo día hábil. En horarios pico, podríamos tardar un poco más, pero siempre daremos seguimiento.
+
+P: ¿Cuál es el tiempo de respuesta habitual?
+R: Respondemos generalmente el mismo día hábil. En horarios pico, podríamos tardar un poco más, pero siempre daremos seguimiento.
+
+P: ¿En cuánto tiempo suelen contestar?
+R: Respondemos generalmente el mismo día hábil. En horarios pico, podríamos tardar un poco más, pero siempre daremos seguimiento.
+
+P: ¿Atienden los fines de semana?
+R: No. La atención al cliente se brinda exclusivamente en días hábiles.
+
+P: ¿Puedo comunicarme con ustedes en sábado o domingo?
+R: No. La atención al cliente se brinda exclusivamente en días hábiles.
+
+P: ¿Tienen atención disponible los fines de semana?
+R: No. La atención al cliente se brinda exclusivamente en días hábiles.
+
+P: ¿Qué tipo de soporte pueden ofrecer por WhatsApp?
+R: Podemos ayudarte a elegir productos, resolver dudas, dar seguimiento a pedidos o canalizar problemas con envíos o devoluciones.
+
+P: ¿Qué ayuda pueden darme si les escribo por WhatsApp?
+R: Podemos ayudarte a elegir productos, resolver dudas, dar seguimiento a pedidos o canalizar problemas con envíos o devoluciones.
+
+P: ¿Qué tipo de asistencia brindan por WhatsApp?
+R: Podemos ayudarte a elegir productos, resolver dudas, dar seguimiento a pedidos o canalizar problemas con envíos o devoluciones.
+
+P: ¿Puedo recibir ayuda para realizar mi compra?
+R: Sí, si tienes dudas en el proceso de compra, te guiamos paso a paso por WhatsApp o correo.
+
+P: ¿Me pueden ayudar a hacer mi pedido?
+R: Sí, si tienes dudas en el proceso de compra, te guiamos paso a paso por WhatsApp o correo.
+
+P: ¿Pueden orientarme si tengo problemas al comprar?
+R: Sí, si tienes dudas en el proceso de compra, te guiamos paso a paso por WhatsApp o correo.
+
+P: ¿Tienen soporte técnico sobre los productos?
+R: Sí, si tienes dudas técnicas o sobre el uso de algún producto, nuestro equipo puede asesorarte.
+
+P: ¿Ofrecen asistencia técnica para los productos?
+R: Sí, si tienes dudas técnicas o sobre el uso de algún producto, nuestro equipo puede asesorarte.
+
+P: ¿Puedo pedir ayuda si no entiendo cómo usar un producto?
+R: Sí, si tienes dudas técnicas o sobre el uso de algún producto, nuestro equipo puede asesorarte.
+
+P: ¿Qué pasa si no recibo respuesta por correo?
+R: Asegúrate de revisar tu carpeta de spam. Si no recibes respuesta en 24-48h hábiles, contáctanos por WhatsApp.
+
+P: ¿Qué hago si no contestan mi correo?
+R: Asegúrate de revisar tu carpeta de spam. Si no recibes respuesta en 24-48h hábiles, contáctanos por WhatsApp.
+
+P: ¿Cómo procedo si no me responden por email?
+R: Asegúrate de revisar tu carpeta de spam. Si no recibes respuesta en 24-48h hábiles, contáctanos por WhatsApp.
+
+P: ¿Puedo hacer sugerencias o quejas?
+R: Claro, valoramos mucho tu opinión. Escríbenos a ventas@kled.com.mx y tu mensaje será atendido por un supervisor.
+
+P: ¿Dónde puedo enviar una sugerencia o reclamo?
+R: Claro, valoramos mucho tu opinión. Escríbenos a ventas@kled.com.mx y tu mensaje será atendido por un supervisor.
+
+P: ¿Aceptan comentarios o quejas de los clientes?
+R: Claro, valoramos mucho tu opinión. Escríbenos a ventas@kled.com.mx y tu mensaje será atendido por un supervisor.
+
+P: ¿El bot puede resolver todos mis problemas?
+R: No, el bot puede ayudarte con dudas frecuentes, pero para temas complejos, canalizamos tu caso a un humano.
+
+P: ¿Puedo solucionar cualquier cosa hablando con el bot?
+R: No, el bot puede ayudarte con dudas frecuentes, pero para temas complejos, canalizamos tu caso a un humano.
+
+P: ¿El asistente virtual resuelve cualquier tipo de problema?
+R: No, el bot puede ayudarte con dudas frecuentes, pero para temas complejos, canalizamos tu caso a un humano.
 
 7. Preguntas Frecuentes y Escenarios Específicos
-P: ¿Qué pasa si el cliente no recibe el correo de confirmación de compra?
-R: Se verificará si la compra fue realizada, posteriormente se dará la solución vía correo electrónico.
 
-P: ¿Qué hacer si el cliente ingresó mal su dirección de envío?
-R: Se solicitará a la paquetería la devolución del mismo para reenviarlo en la dirección correcta, se aplicará un cargo extra.
+P: ¿Qué hago si no encuentro un producto en la tienda?
+R: Puedes contactarnos por WhatsApp o correo y te ayudaremos a buscarlo o sugerirte una alternativa.
 
-P: ¿Se pueden hacer pedidos especiales o personalizados?
-R: Si, solicitarlo al correo ventas@kled.com.mx explicando las especificaciones de su pedido.
+P: ¿Cómo procedo si no localizo un producto en la página?
+R: Puedes contactarnos por WhatsApp o correo y te ayudaremos a buscarlo o sugerirte una alternativa.
 
-P: ¿Qué pasa si un producto se agota después de que el cliente ya pagó?
-R: Se le notificará vía correo, así como el procedimiento para su devolución.
+P: ¿A quién acudo si no veo el artículo que necesito?
+R: Puedes contactarnos por WhatsApp o correo y te ayudaremos a buscarlo o sugerirte una alternativa.
 
-P: ¿El bot debe informar sobre promociones o descuentos?
-R: Si, en caso que lo solicite el cliente.
+P: ¿Qué pasa si elegí la talla equivocada?
+R: Si el producto lo permite, puedes solicitar un cambio. Deberás cubrir el costo de envío en caso de que el error haya sido del cliente.
 
-P: ¿Hay un programa de lealtad, cupones de descuento o beneficios para clientes frecuentes?
-R: Por el momento no contamos con ello.
+P: ¿Se puede cambiar un producto si elegí mal la talla?
+R: Si el producto lo permite, puedes solicitar un cambio. Deberás cubrir el costo de envío en caso de que el error haya sido del cliente.
 
-P: ¿Cómo manejarán las quejas o sugerencias de los clientes?
-R: Al momento de recibir su queja o sugerencia al correo ventas@kled.com.mx se analizará la situación presentada y se le dará solución.
+P: ¿Qué hago si compré una talla incorrecta?
+R: Si el producto lo permite, puedes solicitar un cambio. Deberás cubrir el costo de envío en caso de que el error haya sido del cliente.
+
+P: ¿Puedo comprar para regalar?
+R: Sí, puedes comprar para otra persona. Asegúrate de ingresar correctamente los datos del destinatario en la dirección de envío.
+
+P: ¿Se puede hacer una compra para enviarle a otra persona?
+R: Sí, puedes comprar para otra persona. Asegúrate de ingresar correctamente los datos del destinatario en la dirección de envío.
+
+P: ¿Puedo hacer un pedido para alguien más?
+R: Sí, puedes comprar para otra persona. Asegúrate de ingresar correctamente los datos del destinatario en la dirección de envío.
+
+P: ¿Cómo puedo obtener una cotización?
+R: Si deseas comprar grandes volúmenes o productos específicos, puedes escribirnos a ventas@kled.com.mx y te enviaremos una cotización formal.
+
+P: ¿Dónde solicito una cotización para varios productos?
+R: Si deseas comprar grandes volúmenes o productos específicos, puedes escribirnos a ventas@kled.com.mx y te enviaremos una cotización formal.
+
+P: ¿Cómo pido una cotización formal por correo?
+R: Si deseas comprar grandes volúmenes o productos específicos, puedes escribirnos a ventas@kled.com.mx y te enviaremos una cotización formal.
+
+P: ¿Qué pasa si hago dos compras seguidas?
+R: Si ambas compras aún no se han enviado, podemos unificarlas para ahorrar en costos de envío. Escríbenos lo antes posible para solicitarlo.
+
+P: ¿Pueden juntar dos pedidos que hice con poco tiempo de diferencia?
+R: Si ambas compras aún no se han enviado, podemos unificarlas para ahorrar en costos de envío. Escríbenos lo antes posible para solicitarlo.
+
+P: ¿Es posible combinar mis compras si hice más de una?
+R: Si ambas compras aún no se han enviado, podemos unificarlas para ahorrar en costos de envío. Escríbenos lo antes posible para solicitarlo.
+
+P: ¿Qué debo hacer si el producto recibido no corresponde a mi pedido?
+R: Contacta a soporte con tu número de pedido y fotos del producto. Te enviaremos el artículo correcto y gestionaremos la devolución del equivocado.
+
+P: ¿Qué hago si me mandaron algo que no pedí?
+R: Contacta a soporte con tu número de pedido y fotos del producto. Te enviaremos el artículo correcto y gestionaremos la devolución del equivocado.
+
+P: ¿Cómo resuelvo si recibí un producto distinto al que compré?
+R: Contacta a soporte con tu número de pedido y fotos del producto. Te enviaremos el artículo correcto y gestionaremos la devolución del equivocado.
+
+P: ¿Tienen descuentos por volumen?
+R: Sí. Para compras mayores o por mayoreo, contáctanos y te enviaremos precios preferenciales.
+
+P: ¿Ofrecen precios especiales para compras grandes?
+R: Sí. Para compras mayores o por mayoreo, contáctanos y te enviaremos precios preferenciales.
+
+P: ¿Hay promociones si compro muchos productos?
+R: Sí. Para compras mayores o por mayoreo, contáctanos y te enviaremos precios preferenciales.
+
+P: ¿Qué pasa si cometí un error en mis datos de envío?
+R: Escríbenos de inmediato. Si el pedido aún no ha sido enviado, podremos corregirlo. Si ya fue enviado, dependerá de la paquetería.
+
+P: ¿Puedo corregir la dirección de entrega si me equivoqué?
+R: Escríbenos de inmediato. Si el pedido aún no ha sido enviado, podremos corregirlo. Si ya fue enviado, dependerá de la paquetería.
+
+P: ¿Qué hago si puse mal mis datos al hacer el pedido?
+R: Escríbenos de inmediato. Si el pedido aún no ha sido enviado, podremos corregirlo. Si ya fue enviado, dependerá de la paquetería.
+
+P: ¿Puedo pedir una factura?
+R: Sí, al momento de tu compra puedes ingresar tus datos fiscales o solicitarlos después al correo ventas@kled.com.mx.
+
+P: ¿Cómo obtengo una factura de mi compra?
+R: Sí, al momento de tu compra puedes ingresar tus datos fiscales o solicitarlos después al correo ventas@kled.com.mx.
+
+P: ¿Dónde solicito factura por mi pedido?
+R: Sí, al momento de tu compra puedes ingresar tus datos fiscales o solicitarlos después al correo ventas@kled.com.mx.
+
+P: ¿Qué hago si mi pedido está tardando más de lo normal?
+R: Rastrea el paquete con el número de guía. Si no ves movimiento o hay retrasos prolongados, contáctanos para dar seguimiento con la paquetería.
+
+P: ¿Mi pedido está tardando demasiado, qué hago?
+R: Rastrea el paquete con el número de guía. Si no ves movimiento o hay retrasos prolongados, contáctanos para dar seguimiento con la paquetería.
+
+P: ¿Qué hago si el envío de mi compra se está demorando?
+R: Rastrea el paquete con el número de guía. Si no ves movimiento o hay retrasos prolongados, contáctanos para dar seguimiento con la paquetería.
+
+P: ¿Qué opciones tengo si no me acomoda el horario de entrega?
+R: Puedes reprogramar con la paquetería directamente o recoger en una sucursal cercana, dependiendo del servicio.
+
+P: ¿Qué puedo hacer si no estoy en casa a la hora de entrega?
+R: Puedes reprogramar con la paquetería directamente o recoger en una sucursal cercana, dependiendo del servicio.
+
+P: ¿Qué alternativas tengo si no me va bien el horario del repartidor?
+R: Puedes reprogramar con la paquetería directamente o recoger en una sucursal cercana, dependiendo del servicio.
+
+P: ¿Qué debo hacer si no puedo pagar con mi tarjeta?
+R: Verifica que los datos ingresados sean correctos o intenta con otro método. Si el problema persiste, contáctanos y te ayudaremos.
+
+P: ¿No me acepta el pago con tarjeta, qué hago?
+R: Verifica que los datos ingresados sean correctos o intenta con otro método. Si el problema persiste, contáctanos y te ayudaremos.
+
+P: ¿Cómo soluciono si no pasa mi tarjeta al pagar?
+R: Verifica que los datos ingresados sean correctos o intenta con otro método. Si el problema persiste, contáctanos y te ayudaremos.

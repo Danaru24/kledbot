@@ -1,7 +1,9 @@
 from flask import Flask, request, jsonify
-from kledbot.chatbot import obtener_respuesta_kledbot
+from kledbot.langchain_chain import responder_mensaje  # ✅ Nuevo import
 from kledbot.whatsapp import enviar_mensaje_whatsapp
 from config import PUERTO, WEBHOOK_TOKEN
+from dotenv import load_dotenv
+load_dotenv()
 
 app = Flask(__name__)
 
@@ -17,11 +19,12 @@ def recibir_mensaje_whatsapp():
         mensaje_data = data["messages"][0]
         mensaje = mensaje_data.get("text", "")
         numero = mensaje_data.get("from", "")
-        mensaje_id = mensaje_data.get("id", "sin_id")  # 👈 Agregamos ID
+        mensaje_id = mensaje_data.get("id", "sin_id")
 
         print(f"📩 Mensaje recibido de {numero}: {mensaje} (ID: {mensaje_id})")
 
-        respuesta_bot = obtener_respuesta_kledbot(numero, mensaje)
+        # ✅ Corregido: ahora pasamos número y mensaje
+        respuesta_bot = responder_mensaje(numero, mensaje)
         print(f"✅ Respuesta generada: {respuesta_bot}")
 
         numero = numero.replace("@s.whatsapp.net", "")

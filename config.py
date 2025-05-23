@@ -1,4 +1,6 @@
 # config.py
+from dotenv import load_dotenv
+load_dotenv()
 
 # API de OpenAI
 OPENAI_API_KEY = "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"
